@@ -64,5 +64,5 @@ Once the server is running, you can view the website by navigating to `http://lo
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
 ## Contact
 Feel free to reach out if you have any questions or suggestions!
-- **Email:** [tusharbhardwaj2617@gmail.com](mailto:kamlakanwar@gmail.com) 📥
-- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/) 🧑‍💻
+- **Email:** [kamlakanwar923@gmail.com](mailto:kamlakanwar923@gmail.com) 📥
+- **LinkedIn:** [Kamla Kanwar](https://www.linkedin.com/in/kamla-kanwar/) 🧑‍💻
