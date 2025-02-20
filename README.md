@@ -15,7 +15,7 @@
 <h2>About</h2>
 <p>This portfolio website is designed to highlight my work, skills and services. It includes a collection of my projects, a resume section, and a contact form.</p>
 
-<h2>Features </h2>
+<h2>Features</h2>
 
 - **Home Page** : Introduction and summary of my skills.
 - **About Me**: Detailed information about my background, skills, and interests.
